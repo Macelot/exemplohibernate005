@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-schema="fr_dev" match-name=".*"/>
+  <table-filter match-catalog="fr_dev" match-name="accounts"/>
+  <table-filter match-catalog="fr_dev" match-name="boardings"/>
+  <table-filter match-catalog="fr_dev" match-name="clientes"/>
+  <table-filter match-catalog="fr_dev" match-name="companies"/>
+  <table-filter match-catalog="fr_dev" match-name="driverpositions"/>
+  <table-filter match-catalog="fr_dev" match-name="roles"/>
+  <table-filter match-catalog="fr_dev" match-name="startstops"/>
+  <table-filter match-catalog="fr_dev" match-name="tbl_drivingdistance2s"/>
+  <table-filter match-catalog="fr_dev" match-name="tbl_geocode"/>
+  <table-filter match-catalog="fr_dev" match-name="tbl_rotas"/>
+  <table-filter match-catalog="fr_dev" match-name="tbl_rotas-10-08-2020"/>
+  <table-filter match-catalog="fr_dev" match-name="tbl_rotasold"/>
+  <table-filter match-catalog="fr_dev" match-name="tblcargo"/>
+  <table-filter match-catalog="fr_dev" match-name="tbldepartamento"/>
+  <table-filter match-catalog="fr_dev" match-name="tblplanilhaendereco"/>
+  <table-filter match-catalog="fr_dev" match-name="tblquadrante"/>
+  <table-filter match-catalog="fr_dev" match-name="tblusuario"/>
+  <table-filter match-catalog="fr_dev" match-name="tblusuario_has_tbldepartamento"/>
+  <table-filter match-catalog="fr_dev" match-name="users"/>
+</hibernate-reverse-engineering>
